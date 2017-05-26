@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">DECO Tree Tour App (Android)</string>
+    <string name="title_activity_stdmap_view">Map</string>
+    <string name="swtich_view">View</string>
+</resources>
